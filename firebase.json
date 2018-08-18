@@ -7,9 +7,9 @@
       "**/node_modules/**"
     ],
     "redirects": [ {
-      "source" : "/imas/*",
+      "source" : "/imas",
       "destination" : "https://imas.hacusk.net",
-      "type" : 302
+      "type" : 301
     } ]
   }
 }
