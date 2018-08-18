@@ -1,0 +1,24 @@
+/*!
+Copyright (c) 2013-2018 YOOtheme GmbH, getuikit.com
+Code released under the MIT license
+https://opensource.org/licenses/mit-license.php
+*/
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p');
+@media screen and (max-width: 959px) {
+  body {
+    padding-top: 15px;
+  }
+}
+@media screen and (min-width: 960px) {
+  body {
+    padding-top: 70px;
+  }
+}
+.img-circle {
+  border-radius: 50%;
+  width: auto;
+  height: auto;
+}
+h1, h2, h3, h4, h5, h6, p {
+  font-family: 'M PLUS 1p', sans-serif;
+}

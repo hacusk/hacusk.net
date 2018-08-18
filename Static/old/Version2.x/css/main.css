@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+background-color: #33AAE1;
+height: 100%;
+margin-left: 40px;
+}
+footer {
+text-align: center;
+margin-top: 50px;
+width: 100%;
+}
+center{
+margin-left: -40px;
+}
+
+h1 {
+font-family: 'Josefin Sans', sans-serif;
+font-size: 26px;
+color: #ffffff;
+}
+h2 {
+font-family: 'Josefin Sans', sans-serif;
+font-size: 32px;
+color: #ffffff;
+margin-left: 30px;
+}
+h3 {
+font-family: 'Josefin Sans', sans-serif;
+font-size: 26px;
+margin-top: -25px;
+color: #ffffff;
+margin-left: 30px;
+}
+h4{
+font-family: 'Josefin Sans', sans-serif;
+font-size: 40px;
+color: #ffffff;
+margin-bottom: -20px;
+}
+h5{
+font-family: 'Josefin Sans', sans-serif;
+font-size: 36px;
+color: #ffffff;
+margin-top: -3px;
+}
+h6 {
+font-family: 'Josefin Sans', sans-serif;
+font-size : 30px;
+color: #ffffff;	
+margin-top: -50px;
+}
+h7 {
+font-family: 'Josefin Sans', sans-serif;
+font-size : 30px;
+color: #ffffff;	
+margin-top: -50px;
+}
+p {
+font-family: 'Josefin Sans', sans-serif;
+font-size:22px;
+color: #ffffff;
+}
+
+a { 
+text-decoration:none; 
+}
+a:link{ 
+color: #fff; 
+}
+a:visited{
+color: #fff;
+}
+a:hover{
+color: #fff;
+} 
