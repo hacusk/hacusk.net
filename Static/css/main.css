@@ -6,10 +6,12 @@ https://opensource.org/licenses/mit-license.php
 @import url("https://fonts.googleapis.com/css?family=M+PLUS+1p");
 @media screen and (max-width: 959px) {
   body {
-    padding-top: 15px; } }
+    padding-top: 15px;
+    padding-bottom: 15px; } }
 @media screen and (min-width: 960px) {
   body {
-    padding-top: 70px; } }
+    padding-top: 70px;
+    padding-bottom: 70px; } }
 .img-circle {
   border-radius: 50%;
   width: auto;
