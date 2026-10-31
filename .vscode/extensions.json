@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "ubugeeei.vize",
+    "VoidZero.vite-plus-extension-pack",
+    "TypeScriptTeam.native-preview"
+  ],
+  "unwantedRecommendations": ["Vue.volar"]
+}
